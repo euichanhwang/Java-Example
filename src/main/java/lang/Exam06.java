@@ -1,4 +1,6 @@
 package lang;
+//# 문자의 리터럴
+//- 작은 따옴표 ''를 사용하여 문자를 표현한다.
 
 public class Exam06 {
     public static void main(String[] args) {
@@ -8,6 +10,13 @@ public class Exam06 {
         // => 'B' : 0x0042
         // => '1' : 0x0031
         // => '가': 0xac00
+        //
+        // println()
+        // - 출력 값으로 문자 코드가 주어지면 해당 코드의 문자를
+        //   폰트 파일에서 찾아 출력한다.
+        // - 만약 폰트 파일에 해당 코드의 문자가 없으면 출력하지 못한다.
+        //
+        //작은 따옴표를 사용하여 문자를 표현한다.
         System.out.println('A');
         System.out.println('가');
 
@@ -36,6 +45,9 @@ public class Exam06 {
         System.out.println('\u03a3'); // 수학의 시그마 기호 'Σ'
     }
 }
+
+// - 문자를 메모리에 저장하려면
+//   2진수로 바꿀 수 있어야 한다.
 // - 문자를 2진수로 바꾸는 규칙을
 //   "문자집합(Character Set)"이라 한다.
 // - 문자 집합에는 여러 규칙이 있다.
