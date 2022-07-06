@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da7a49e0-91f0-46ca-b476-496864e8b4f7" name="Changes" comment="" />
+    <list default="true" id="da7a49e0-91f0-46ca-b476-496864e8b4f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/Exam01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/Exam02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/Exam03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/Exam04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/Exam05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/Exam06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Example/Exam01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam01.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,6 +32,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BW3ezmBrEu8B1o01kVYCs6QR0z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -21,8 +42,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Exam06">
+    <configuration name="Exam01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.Exam01" />
+      <module name="Java-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exam01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exam01" />
       <module name="Java-Example" />
@@ -30,8 +68,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exam04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.Exam04" />
+      <module name="Java-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.Exam05" />
+      <module name="Java-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.Exam06" />
+      <module name="Java-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exam06" />
+        <item itemvalue="Application.Exam05" />
+        <item itemvalue="Application.Exam04" />
+        <item itemvalue="Application.Exam01 (1)" />
         <item itemvalue="Application.Exam01" />
       </list>
     </recent_temporary>
@@ -44,7 +125,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657008116102</updated>
+      <workItem from="1657071794131" duration="698000" />
+      <workItem from="1657072496297" duration="3006000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
