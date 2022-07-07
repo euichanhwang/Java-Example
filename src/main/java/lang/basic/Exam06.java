@@ -1,4 +1,4 @@
-package lang;
+package lang.basic;
 //# 문자의 리터럴
 //- 작은 따옴표 ''를 사용하여 문자를 표현한다.
 

@@ -1,4 +1,4 @@
-package lang;
+package lang.basic;
 
 public class Exam03 {
     public static void main(String[] args) {

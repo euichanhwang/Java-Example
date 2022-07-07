@@ -1,4 +1,4 @@
-package lang;
+package lang.basic;
 
 public class Exam02 {
     static String message = "Hello";

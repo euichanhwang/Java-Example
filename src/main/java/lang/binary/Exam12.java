@@ -1,4 +1,4 @@
-package lang;
+package lang.binary;
 
 public class Exam12 {
     public static void main(String[] args) {

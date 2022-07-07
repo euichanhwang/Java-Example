@@ -1,4 +1,4 @@
-package lang;
+package lang.binary;
 //상수도 변수와 마찬가지로 '값을 저장할 수 있는 공간' + 한번 값을 저장하면 다른 값으로 변경할 수 없다.
 public class Exam07 {
     public static void main(String[] args) {

@@ -1,8 +1,7 @@
-package lang;
+package lang.datatype;
 
-public class Exam18 {
+public class Exam23 {
     public static void main(String[] args) {
-
 
     }
 }

@@ -1,4 +1,4 @@
-package lang;
+package lang.variable;
 
 public class Exam17 {
         // 문자의 리터럴 - 작은따옴표(' ')와 문자 코드

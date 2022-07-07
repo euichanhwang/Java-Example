@@ -1,4 +1,4 @@
-package lang;
+package lang.variable;
 
 public class Exam15 {
     //문자열 리터럴

@@ -1,4 +1,4 @@
-package lang;
+package lang.variable;
 
 public class Exam14 {
     public static void main(String[] args) {

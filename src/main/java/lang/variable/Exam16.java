@@ -1,4 +1,4 @@
-package lang;
+package lang.variable;
 
 public class Exam16 {
     //escape character = 문자 제어 코드
