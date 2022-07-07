@@ -11,5 +11,11 @@ public class Exam10 {
         System.out.println(""+"");  //
         System.out.println(7+7+""); //14
         System.out.println(""+7+7); //77
+
+        System.out.println("Hello," + "world!");
+        System.out.println("나이:"+20);
+        System.out.println(false+"<==재직자 여부");
+        System.out.println("성별:"+'여');
+        System.out.println("키:"+170.5f);
     }
 }
