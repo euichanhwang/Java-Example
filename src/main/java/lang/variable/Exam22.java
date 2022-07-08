@@ -1,4 +1,4 @@
-package lang.datatype;
+package lang.variable;
 
 public class Exam22 {
     public static void main(String[] args) {

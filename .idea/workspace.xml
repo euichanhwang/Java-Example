@@ -2,32 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da7a49e0-91f0-46ca-b476-496864e8b4f7" name="Changes" comment="7/7 java language Example">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/datatype/Exam22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/datatype/Exam23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/datatype/Exam24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam28.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/basic/Exam01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/basic/Exam02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/basic/Exam03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/basic/Exam04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/basic/Exam05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/basic/Exam06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/binary/Exam07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/binary/Exam08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/binary/Exam09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/binary/Exam10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/binary/Exam11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/binary/Exam12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/binary/Exam13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/Exam18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lang/datatype/Exam22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lang/datatype/Exam23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lang/datatype/Exam24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam24.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +59,13 @@
       <recent name="lang" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exam22">
-    <configuration name="Exam18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam18" />
+  <component name="RunManager" selected="Application.Exam28">
+    <configuration name="Exam24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam24" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.basic.*" />
+          <option name="PATTERN" value="lang.variable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam19" />
+    <configuration name="Exam25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam25" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.basic.*" />
+          <option name="PATTERN" value="lang.variable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam20" />
+    <configuration name="Exam26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam26" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.basic.*" />
+          <option name="PATTERN" value="lang.variable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam21" />
+    <configuration name="Exam27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam27" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.basic.*" />
+          <option name="PATTERN" value="lang.variable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.datatype.Exam22" />
+    <configuration name="Exam28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam28" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.datatype.*" />
+          <option name="PATTERN" value="lang.variable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exam22" />
-        <item itemvalue="Application.Exam18" />
-        <item itemvalue="Application.Exam21" />
-        <item itemvalue="Application.Exam20" />
-        <item itemvalue="Application.Exam19" />
+        <item itemvalue="Application.Exam28" />
+        <item itemvalue="Application.Exam27" />
+        <item itemvalue="Application.Exam26" />
+        <item itemvalue="Application.Exam25" />
+        <item itemvalue="Application.Exam24" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +150,8 @@
       <workItem from="1657104615553" duration="3075000" />
       <workItem from="1657155324759" duration="56000" />
       <workItem from="1657155926733" duration="12022000" />
-      <workItem from="1657183451207" duration="2873000" />
+      <workItem from="1657183451207" duration="3608000" />
+      <workItem from="1657241318145" duration="6423000" />
     </task>
     <task id="LOCAL-00001" summary="Java Grammar Example">
       <created>1657079168868</created>
@@ -191,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657179371018</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="7/7 java language Example">
+      <created>1657186396029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657186396029</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

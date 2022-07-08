@@ -1,0 +1,17 @@
+package lang.variable;
+
+import java.util.Date;
+
+public class Exam28 {
+    public static void main(String[] args) {
+        Date d1 = new Date();
+        Date d2 = d1;
+        System.out.printf("%d,%d\n",d1.getDate(),d2.getDate()); // 8,8
+
+        d1.setDate(22);
+        System.out.printf("%d,%d\n",d1.getDate(),d2.getDate()); // 22,22
+        // d1에 저장된 날짜 값을 변경한 후 d2에 저장된 날짜 값을 출력해 보면 d1과 똑같이 변경되어 있다.
+        // d1과 d2에 저장되는 것은 값이 아니라 (날짜 정보가 저장되어 있는 메모리의) 주소이다.
+        // 이렇게 값을 저장하지 않고 값이 저장된 위치(주소) 를 저장하는 변수를 "레퍼런스 (변수)" 라 부른다.
+    }
+}
