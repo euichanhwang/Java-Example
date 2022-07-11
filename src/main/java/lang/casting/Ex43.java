@@ -1,0 +1,30 @@
+package lang.casting;
+
+public class Ex43 {
+    public static void main(String[] args) {
+        // 명시적 형변환이 불가능한 경우, 특별한 메서드를 사용하면 가능
+        byte b = Byte.valueOf("100");
+        short s = Short.valueOf("32767");
+        int i1 = Integer.parseInt("212222222"); // 문자열 --> int
+        int i2 = Integer.parseInt("2122233322"); // 문자열 --> int
+        float f1 = Float.valueOf("3.14f");
+        float f2 = Float.parseFloat("3.14f");
+        double d = Double.valueOf("9876.654");
+        boolean bool1 = Boolean.valueOf("TRUE");
+        boolean bool2 = Boolean.parseBoolean("TRUE");
+        char c = "가".charAt(0);
+        char ch = "가나다".charAt(1);
+
+        System.out.println(b);
+        System.out.println(s);
+        System.out.println(i1);
+        System.out.println(i2);
+        System.out.println(f1);
+        System.out.println(f2);
+        System.out.println(d);
+        System.out.println(bool1);
+        System.out.println(bool2);
+        System.out.println(c);
+        System.out.println(ch);
+    }
+}

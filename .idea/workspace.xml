@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da7a49e0-91f0-46ca-b476-496864e8b4f7" name="Changes" comment="7/8 difference between Overriding, Overloading">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/casting/Ex31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam30.java" afterDir="false" />
+    <list default="true" id="da7a49e0-91f0-46ca-b476-496864e8b4f7" name="Changes" comment="7/8 Java Example for casting">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/array/Exam40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/casting/Ex43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,15 +58,16 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lang" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex31">
-    <configuration name="Ex31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.casting.Ex31" />
+  <component name="RunManager" selected="Application.Ex43">
+    <configuration name="Ex43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.casting.Ex43" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +79,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam30 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam30" />
+    <configuration name="Exam37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.io.Exam37" />
+      <module name="Java-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.io.Exam38" />
+      <module name="Java-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.io.Exam39" />
+      <module name="Java-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam41" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
@@ -82,52 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.casting.Exam30" />
-      <module name="Java-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lang.casting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OverloadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.overloding.OverloadingTest" />
-      <module name="Java-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lang.overloding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OverridingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.overloding.OverridingTest" />
-      <module name="Java-Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lang.overloding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex31" />
-        <item itemvalue="Application.Exam30 (1)" />
-        <item itemvalue="Application.Exam30" />
-        <item itemvalue="Application.OverridingTest" />
-        <item itemvalue="Application.OverloadingTest" />
+        <item itemvalue="Application.Ex43" />
+        <item itemvalue="Application.Exam41" />
+        <item itemvalue="Application.Exam39" />
+        <item itemvalue="Application.Exam38" />
+        <item itemvalue="Application.Exam37" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +158,8 @@
       <workItem from="1657155926733" duration="12022000" />
       <workItem from="1657183451207" duration="3608000" />
       <workItem from="1657241318145" duration="9173000" />
-      <workItem from="1657267134956" duration="1668000" />
+      <workItem from="1657267134956" duration="1786000" />
+      <workItem from="1657500257522" duration="13654000" />
     </task>
     <task id="LOCAL-00001" summary="Java Grammar Example">
       <created>1657079168868</created>
@@ -192,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657256500656</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="7/8 Java Example for casting">
+      <created>1657268920501</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657268920501</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +233,7 @@
     <MESSAGE value="7/7 java language Example" />
     <MESSAGE value="7/8 java language Example" />
     <MESSAGE value="7/8 difference between Overriding, Overloading" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/8 difference between Overriding, Overloading" />
+    <MESSAGE value="7/8 Java Example for casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/8 Java Example for casting" />
   </component>
 </project>
