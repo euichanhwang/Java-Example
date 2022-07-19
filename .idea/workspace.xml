@@ -1,19 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da7a49e0-91f0-46ca-b476-496864e8b4f7" name="Changes" comment="7/8 Java Example for casting">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/array/Exam40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/casting/Ex43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/Exam39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/variable/Exam42.java" afterDir="false" />
+    <list default="true" id="da7a49e0-91f0-46ca-b476-496864e8b4f7" name="Changes" comment="7/12 Java Example for casting">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/collection/Exam70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/conditional/Exam76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/constructor/InheritanceConstructorEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/constructor/InheritanceConstructorEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/date/Exam73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/io/BoardApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/Exam90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/method/HanoiTower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,20 +81,20 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lang" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex43">
-    <configuration name="Ex43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.casting.Ex43" />
+  <component name="RunManager" selected="Application.Exam89">
+    <configuration name="Exam83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.method.Exam83" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.casting.*" />
+          <option name="PATTERN" value="lang.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.io.Exam37" />
+    <configuration name="Exam84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.method.Exam84" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.io.*" />
+          <option name="PATTERN" value="lang.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.io.Exam38" />
+    <configuration name="Exam86" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.method.Exam86" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.io.*" />
+          <option name="PATTERN" value="lang.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.io.Exam39" />
+    <configuration name="Exam87" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.method.Exam87" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.io.*" />
+          <option name="PATTERN" value="lang.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.variable.Exam41" />
+    <configuration name="Exam89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.method.Exam89" />
       <module name="Java-Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.variable.*" />
+          <option name="PATTERN" value="lang.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex43" />
-        <item itemvalue="Application.Exam41" />
-        <item itemvalue="Application.Exam39" />
-        <item itemvalue="Application.Exam38" />
-        <item itemvalue="Application.Exam37" />
+        <item itemvalue="Application.Exam89" />
+        <item itemvalue="Application.Exam87" />
+        <item itemvalue="Application.Exam86" />
+        <item itemvalue="Application.Exam84" />
+        <item itemvalue="Application.Exam83" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +182,17 @@
       <workItem from="1657183451207" duration="3608000" />
       <workItem from="1657241318145" duration="9173000" />
       <workItem from="1657267134956" duration="1786000" />
-      <workItem from="1657500257522" duration="13654000" />
+      <workItem from="1657500257522" duration="16934000" />
+      <workItem from="1657537714096" duration="1094000" />
+      <workItem from="1657597122096" duration="4755000" />
+      <workItem from="1657613496772" duration="2789000" />
+      <workItem from="1657624708587" duration="1044000" />
+      <workItem from="1657677197003" duration="4266000" />
+      <workItem from="1657697790146" duration="3913000" />
+      <workItem from="1657882861520" duration="722000" />
+      <workItem from="1658109279072" duration="4364000" />
+      <workItem from="1658140221441" duration="686000" />
+      <workItem from="1658219318808" duration="3865000" />
     </task>
     <task id="LOCAL-00001" summary="Java Grammar Example">
       <created>1657079168868</created>
@@ -210,7 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657268920501</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="7/11 Java Example for casting">
+      <created>1657521475741</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657521475741</updated>
+    </task>
+    <task id="LOCAL-00009" summary="7/12 Java Example for casting">
+      <created>1657611754690</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657611754690</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +281,8 @@
     <MESSAGE value="7/8 java language Example" />
     <MESSAGE value="7/8 difference between Overriding, Overloading" />
     <MESSAGE value="7/8 Java Example for casting" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/8 Java Example for casting" />
+    <MESSAGE value="7/11 Java Example for casting" />
+    <MESSAGE value="7/12 Java Example for casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/12 Java Example for casting" />
   </component>
 </project>
